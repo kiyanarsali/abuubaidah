@@ -1,4 +1,3 @@
 KELASABUUBAIDAH
 -Membuat Responsive
--Menambahkan Role User
 -1 User yang menjadi Co-Admin
