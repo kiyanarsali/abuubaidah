@@ -1,2 +1,4 @@
 KELASABUUBAIDAH
 -1 User yang menjadi Co-Admin
+-Membuat Galeri
+-Membuat Halaman Events
